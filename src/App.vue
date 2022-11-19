@@ -59,8 +59,8 @@ nav {
 
 .mainfield{
   min-height: 70vh;
+  margin: 0;
 }
-
 
 .footer {
     position: sticky;

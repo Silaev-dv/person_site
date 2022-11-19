@@ -1,5 +1,4 @@
 <template>
-    <!--<CommonHeader/>-->
     <main>
         <SectionTitle/>
         <SectionFeatures/>
